@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Ahmed Albaadani 👋 | Data Analyst from Riyadh
 
-<!--
-**albaadaniahmed/albaadaniahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IoT & IT Support Engineer | Power BI | Arduino**
 
-Here are some ideas to get you started:
+I turn data into decisions. Currently building my career in Data Analytics with Tuwaiq Academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🏆 Certificates
+- **Power BI 101 - Tuwaiq Academy (Satr)** - Sep 2026
+    - [View Certificate](./certificates/Power-BI-101.png)
+
+#### 🚀 Projects
+- **DIY Arduino Bluetooth Car** - IoT project with NIMS
+- More Power BI dashboards coming soon...
+
+#### 📫 Connect with me
+- LinkedIn: linkedin.com/in/albaadaniahmed
+- Location: Riyadh, Saudi Arabia
+
+---
+⭐️ From Riyadh with data!
